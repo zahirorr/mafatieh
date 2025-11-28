@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "licenses": []
+  "licenses": [{
+  "key": "SD-2025-DYGA-PESP",
+  "status": "active",
+  "note": "Kunde Müller",
+  "expiresAt": "2026-11-28T20:31:08.545Z"
+}
+  ]
 }
